@@ -1,0 +1,32 @@
+{
+  "name": "timeline",
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "prettier": "^2.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hsuan-YU Chou",
+  "license": "Unlicense",
+  "description": "a React component for making simple timelines",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hy-chou/timeline.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hy-chou/timeline/issues"
+  },
+  "homepage": "https://github.com/hy-chou/timeline#readme"
+}
