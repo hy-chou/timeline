@@ -1,0 +1,54 @@
+[
+  {
+    "date": "Day 1",
+    "events": [
+      {
+        "icon": "Brightness7Icon",
+        "text": "Good Morning",
+        "time": "10:00"
+      },
+      {
+        "icon": "FunctionsIcon",
+        "text": "Math",
+        "time": "11:00",
+        "color": "highlight"
+      },
+      {
+        "icon": "RestaurantIcon",
+        "text": "Lunch",
+        "time": "12:00"
+      }
+    ]
+  },
+  {
+    "date": "Day 2",
+    "events": [
+      {
+        "icon": "RestaurantIcon",
+        "text": "Breakfast",
+        "time": "07:00"
+      },
+      {
+        "icon": "SportsVolleyballIcon",
+        "text": "Sports",
+        "time": "11:00",
+        "color": "highlight"
+      },
+      {
+        "icon": "RestaurantIcon",
+        "text": "Lunch",
+        "time": "12:00"
+      },
+      {
+        "icon": "PollIcon",
+        "text": "Poll",
+        "time": "13:00"
+      },
+      {
+        "icon": "EqualizerIcon",
+        "text": "Awards",
+        "time": "16:00"
+      }
+    ]
+  }
+]
