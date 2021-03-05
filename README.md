@@ -1,2 +1,2 @@
 # timeline
-a hand-carved timeline using Material-UI, part of 2021makeNTU page
+a timeline component for web pages, using JavaScript with React and Material-UI
